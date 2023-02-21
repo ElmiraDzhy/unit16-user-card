@@ -6,17 +6,20 @@
 }
 
 .outer{
-    width: 700px;
-    height: 500px;
+    width: 1450px;
+    /* height: 500px; */
     border: 1px solid black;
     
 }
 
 .inner{
     display: inline-block;
-    /* width: 50%; */
-    height: 50%;
+    width: 50vw;
+    /* height: 50%; */
     border: 1px solid black;
+
+    padding: 10%;
+    margin-top: 10%;
 
 }
 
