@@ -1,0 +1,22 @@
+.box{
+    margin: auto;
+    display: inline-block;
+    border: 1px solid black;
+    width: 50vw;
+}
+
+.outer{
+    width: 700px;
+    height: 500px;
+    border: 1px solid black;
+    
+}
+
+.inner{
+    display: inline-block;
+    /* width: 50%; */
+    height: 50%;
+    border: 1px solid black;
+
+}
+
